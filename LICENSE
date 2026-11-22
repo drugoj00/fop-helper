@@ -1,0 +1,78 @@
+FOP HELPER: LICENSE / ЛІЦЕНЗІЯ / ЛИЦЕНЗИЯ
+Copyright (c) 2026 drugoj00. All rights reserved. / Усі права захищено. / Все права защищены.
+https://drugoj00.github.io/
+
+Languages: English | Українська | Русский.
+Version of this text: 1 (22.11.2026). If translations differ, the English text applies.
+
+======================================================================
+ENGLISH
+======================================================================
+
+1. What you get. FOP Helper (the "Program") is free for personal, non-commercial use. It contains no advertising. You may install it on your own computers.
+
+2. Ownership. The Program is protected by copyright. All rights not expressly granted here are reserved by the author. The source code is not published and no license to it is granted.
+
+3. Redistribution. You may share the Program only in its original, unmodified form (the original installer as published by the author), free of charge, and only with the author's name and the link above kept intact. You may not sell it, bundle it with other software or paid services, or place advertising around it.
+
+4. Restrictions. You may not modify the Program, remove or change the author's notices, rebrand it, publish modified builds, or decompile, disassemble or reverse engineer it, except where applicable law expressly allows this despite this restriction, and except for rights you have under the licenses of third-party components listed in clause 6.
+
+5. Your data and your responsibility. The Program only helps to prepare tax documents from the data you enter. It does not give tax or legal advice, signs nothing and submits nothing. You are solely responsible for the data, for checking every document before filing it, and for following the laws of your country. The author is not responsible for how you use the Program.
+
+6. Third-party components. The Program uses third-party components under their own licenses, which stay in force and are not limited by this text: Qt for Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), lxml (BSD-3-Clause, https://lxml.de), Playwright for Python (Apache-2.0, https://playwright.dev/python/), Python (PSF License, https://docs.python.org/3/license.html), PyInstaller (GPL-2.0 with the bootloader exception, https://pyinstaller.org). Components used from your computer at your request keep their own licenses too: Google Chrome and 7-Zip (LGPL, https://www.7-zip.org).
+
+7. No warranty. The Program is provided "as is", without warranty of any kind. To the extent permitted by law, the author is not liable for any damage, data loss, fines or consequences arising from the use of the Program.
+
+8. Network services. The Program contacts external services only for the purposes described in the "About" and settings pages: comparing report forms with the DPS form registry and reading the DPS cabinet when you ask, and checking for updates on GitHub. Your data is stored only on your computer.
+
+9. Termination. This license ends automatically if you break its terms. Then you must stop using the Program and delete your copies.
+
+10. Contact. Questions and bug reports: https://drugoj00.github.io/
+
+======================================================================
+УКРАЇНСЬКА
+======================================================================
+
+1. Що ви отримуєте. FOP Helper («Програма») безкоштовний для особистого некомерційного використання. Реклами в ньому немає. Ви можете встановлювати його на власні комп'ютери.
+
+2. Авторські права. Програму захищено авторським правом. Усі права, прямо не надані цим текстом, залишаються за автором. Вихідний код не публікується, ліцензії на нього не надається.
+
+3. Поширення. Поширювати Програму можна лише в оригінальному, незміненому вигляді (оригінальний інсталятор, опублікований автором), безкоштовно і лише зі збереженням імені автора та посилання вище. Продавати її, додавати до іншого програмного забезпечення чи платних послуг, розміщувати навколо неї рекламу не можна.
+
+4. Обмеження. Не можна змінювати Програму, видаляти чи міняти повідомлення про авторство, видавати її під іншою назвою, публікувати змінені збірки, а також декомпілювати, дизасемблювати чи досліджувати її внутрішню будову, окрім випадків, коли чинне законодавство прямо це дозволяє попри це обмеження, та окрім прав, які ви маєте за ліцензіями сторонніх компонентів із пункту 6.
+
+5. Ваші дані та ваша відповідальність. Програма лише допомагає готувати податкові документи за даними, які ви вводите. Вона не надає податкових чи юридичних консультацій, нічого не підписує й не надсилає. Ви самі повністю відповідаєте за дані, за перевірку кожного документа перед поданням і за дотримання законів своєї країни. Автор не відповідає за те, як ви використовуєте Програму.
+
+6. Сторонні компоненти. Програма використовує сторонні компоненти за їхніми ліцензіями, які залишаються чинними й не обмежуються цим текстом: Qt for Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), lxml (BSD-3-Clause, https://lxml.de), Playwright for Python (Apache-2.0, https://playwright.dev/python/), Python (PSF License, https://docs.python.org/3/license.html), PyInstaller (GPL-2.0 з винятком для завантажувача, https://pyinstaller.org). Компоненти, які використовуються з вашого комп'ютера на ваш запит, також мають власні ліцензії: Google Chrome і 7-Zip (LGPL, https://www.7-zip.org).
+
+7. Відсутність гарантій. Програму надано «як є», без жодних гарантій. У межах, дозволених законом, автор не відповідає за шкоду, втрату даних, штрафи чи наслідки використання Програми.
+
+8. Мережеві сервіси. Програма звертається до зовнішніх сервісів лише для цілей, описаних на сторінках «Про програму» та налаштувань: звірка форм звітності з реєстром форм ДПС і читання кабінету ДПС на ваш запит, а також перевірка оновлень на GitHub. Ваші дані зберігаються лише на вашому комп'ютері.
+
+9. Припинення. Ця ліцензія автоматично втрачає чинність, якщо ви порушуєте її умови. Тоді ви маєте припинити користування Програмою й видалити свої копії.
+
+10. Контакти. Питання та повідомлення про помилки: https://drugoj00.github.io/
+
+======================================================================
+РУССКИЙ
+======================================================================
+
+1. Что вы получаете. FOP Helper («Программа») бесплатен для личного некоммерческого использования. Рекламы в нём нет. Вы можете устанавливать его на собственные компьютеры.
+
+2. Авторские права. Программа защищена авторским правом. Все права, прямо не предоставленные этим текстом, остаются за автором. Исходный код не публикуется, лицензия на него не предоставляется.
+
+3. Распространение. Распространять Программу можно только в оригинальном, неизменённом виде (оригинальный установщик, опубликованный автором), бесплатно и только с сохранением имени автора и ссылки выше. Продавать её, включать в другое программное обеспечение или платные услуги, размещать вокруг неё рекламу нельзя.
+
+4. Ограничения. Нельзя изменять Программу, удалять или менять сообщения об авторстве, выдавать её под другим названием, публиковать изменённые сборки, а также декомпилировать, дизассемблировать или исследовать её внутреннее устройство, кроме случаев, когда действующий закон прямо это разрешает вопреки данному ограничению, и кроме прав, которые вы имеете по лицензиям сторонних компонентов из пункта 6.
+
+5. Ваши данные и ваша ответственность. Программа лишь помогает готовить налоговые документы по введённым вами данным. Она не даёт налоговых или юридических консультаций, ничего не подписывает и не отправляет. Вы сами полностью отвечаете за данные, за проверку каждого документа перед подачей и за соблюдение законов своей страны. Автор не отвечает за то, как вы используете Программу.
+
+6. Сторонние компоненты. Программа использует сторонние компоненты по их лицензиям, которые остаются в силе и не ограничиваются этим текстом: Qt for Python / PySide6 (LGPL-3.0, https://doc.qt.io/qtforpython-6/), lxml (BSD-3-Clause, https://lxml.de), Playwright for Python (Apache-2.0, https://playwright.dev/python/), Python (PSF License, https://docs.python.org/3/license.html), PyInstaller (GPL-2.0 с исключением для загрузчика, https://pyinstaller.org). Компоненты, которые используются с вашего компьютера по вашему запросу, тоже имеют собственные лицензии: Google Chrome и 7-Zip (LGPL, https://www.7-zip.org).
+
+7. Отсутствие гарантий. Программа предоставляется «как есть», без каких-либо гарантий. В пределах, разрешённых законом, автор не отвечает за ущерб, потерю данных, штрафы или последствия использования Программы.
+
+8. Сетевые сервисы. Программа обращается к внешним сервисам только для целей, описанных на страницах «О программе» и настроек: сверка форм отчётности с реестром форм ДПС и чтение кабинета ДПС по вашему запросу, а также проверка обновлений на GitHub. Ваши данные хранятся только на вашем компьютере.
+
+9. Прекращение. Эта лицензия автоматически прекращается, если вы нарушаете её условия. Тогда вы должны прекратить пользоваться Программой и удалить свои копии.
+
+10. Контакты. Вопросы и сообщения об ошибках: https://drugoj00.github.io/
