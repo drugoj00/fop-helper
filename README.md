@@ -1,6 +1,6 @@
 [English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md)
 
-🌐 All our programs: https://drugoj00.github.io/ · Telegram channel: https://t.me/FOP_helper
+🌐 All our programs: https://drugoj00.github.io/ · Telegram channel: https://t.me/FOP_helper · More programs by the author (Telegram): https://t.me/PhoneInWindowSound
 
 # FOP Helper
 
