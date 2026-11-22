@@ -4,7 +4,7 @@
 
 # FOP Helper
 
-A Windows program for Ukrainian sole proprietors (FOP): it counts deadlines and taxes by your profile, keeps the income and expense journal, reminds you what to file and pay, and prepares tax reports in the current DPS (tax service) form formats. Everything runs on your computer; the program signs and submits nothing.
+A Windows program for Ukrainian sole proprietors (FOP) that fills in your tax reports for you. It takes the data from your income and expense journal and your profile, works with the DPS electronic cabinet (signs in with your key and reads your details, KVED codes and the current forms), counts deadlines and taxes, and checks every report before saving it in the current DPS form format. You only upload the finished file to the cabinet and sign it there. Everything runs on your computer; the program signs and submits nothing.
 
 ⭐ If the program is useful, please star this repository: it costs nothing and helps other people find it.
 
@@ -24,7 +24,7 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 - Reports: single tax declarations (annual for groups 1–2, quarterly for group 3) with the SSC appendix, general system, employer package, VAT calculation; XML is checked against the official schema before saving
 - The form version is compared with the DPS form registry before each report; an outdated or unchecked form is marked and needs confirmation
 - Calendar of deadlines by your profile and a reminder of the nearest dates when the program starts
-- Optional "Fill from the DPS cabinet": reads your profile after you sign in with your key
+- Works with the DPS electronic cabinet: signs in with your key (the password stays in memory only) and reads your details, KVED codes and form versions; optional "Fill from the DPS cabinet" fills the profile for you
 - Interface and notifications in Ukrainian, Russian and English, light and dark themes; the documents the program prepares are in Ukrainian only
 
 ## Screenshots
