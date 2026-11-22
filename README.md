@@ -44,4 +44,11 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 - Documents prepared by the program, report row captions and application fields are in Ukrainian only
 - Not verified yet: legal wording of the hints for every group and case, installation on all Windows editions
 
+## Support the project
+
+The program is free. If it is useful you can support its development by card, Google Pay or USDT. For USDT use only the TRON network (TRC20): coins sent over another network are lost.
+
+- By card or Google Pay (from 50 UAH): https://secure.wayforpay.com/button/bba92579a4647
+- USDT (TRON TRC20): `TXk32CLkwJryTqhmkw6urcM5CacJgPsSpJ`
+
 The source code is not published.
