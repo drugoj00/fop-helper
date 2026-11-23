@@ -19,9 +19,9 @@ The installer is not yet signed with a publisher certificate: Windows may show a
 ## What's new in 1.0
 
 - First public release
-- Profile of the sole proprietor (single tax group 1–3 or the general system, VAT payer, employees), several FOPs in one program
+- Profile of the sole proprietor (single tax group 1-3 or the general system, VAT payer, employees), several FOPs in one program
 - Income and expense journal, control of the single-tax income limit with warnings at 80% and 95%
-- Reports: single tax declarations (annual for groups 1–2, quarterly for group 3) with the SSC appendix, general system, employer package, VAT calculation; XML is checked against the official schema before saving
+- Reports: single tax declarations (annual for groups 1-2, quarterly for group 3) with the SSC appendix, general system, employer package, VAT calculation; XML is checked against the official schema before saving
 - The form version is compared with the DPS form registry before each report; an outdated or unchecked form is marked and needs confirmation
 - Calendar of deadlines by your profile and a reminder of the nearest dates when the program starts
 - Works with the DPS electronic cabinet: signs in with your key (the password stays in memory only) and reads your details, KVED codes and form versions; optional "Fill from the DPS cabinet" fills the profile for you
